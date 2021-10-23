@@ -16,4 +16,9 @@ git status
 
 git commit -m "Added: test.cpp"
 
+git push //push to github
+
+//other extra
+git log
+
 */
