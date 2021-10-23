@@ -12,3 +12,8 @@ int main()
 
 git status //show untracked file or file edited
 git add --all . //shelve for change
+git status
+
+git commit -m "Added: test.cpp"
+
+*/
